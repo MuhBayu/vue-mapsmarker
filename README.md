@@ -1,4 +1,5 @@
 # vue-mapsmarker
+<img src="./screenshot.png" width="350"/>
 
 ## Project setup
 ```
